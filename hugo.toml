@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://hyewoncho-dev.github.io/personal-portfolio/"
 title = "johndoe"
 theme = "template"
 
