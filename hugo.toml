@@ -28,7 +28,7 @@ author = "조혜원"
 description = "컴퓨터인공지능학과 학생 조혜원의 개인 개발 포트폴리오입니다."
 keywords = "조혜원, 컴퓨터인공지능, 개발자, 프로그래밍, 포트폴리오"
 info = ["컴퓨터인공지능학과 학생", "Web Development · AI · Security"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "images/avatar.png"
 dateFormat = "January 2, 2006"
 since = 2026
 # Git Commit in Footer, uncomment the line below to enable it
