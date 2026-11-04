@@ -1,25 +1,78 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+
+title = "About Me"
+
+description = "컴퓨터인공지능학과 학생 조혜원을 소개합니다."
+
+date = "2026-11-04"
+
+author = "조혜원"
+
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+\# 안녕하세요, 조혜원입니다.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+컴퓨터인공지능학과에서 컴퓨터 과학과 프로그래밍을 공부하고 있습니다.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
+
+다양한 프로그래밍 경험을 통해 문제를 해결하는 능력을 기르고, 배운 내용을 실제 프로젝트에 적용하는 것을 목표로 하고 있습니다.
+
+
+
+\## 🎓 Education
+
+
+
+\- \*\*전북대학교\*\*
+
+\- 컴퓨터인공지능학과
+
+\- 2025학번
+
+
+
+\## 💻 Interests
+
+
+
+제가 관심을 가지고 공부하고 있는 분야입니다.
+
+
+
+\- \*\*Web Development\*\* – 웹 서비스 개발과 사용자 인터페이스 구현
+
+\- \*\*Artificial Intelligence\*\* – 인공지능과 컴퓨터 과학의 기초 학습
+
+\- \*\*Information Security\*\* – 시스템과 네트워크 보안에 대한 이해
+
+
+
+\## 🛠️ Skills
+
+
+
+현재 학습하고 프로젝트에 활용하고 있는 기술입니다.
+
+
+
+\- Programming: Python, JavaScript
+
+\- Frontend: HTML, CSS, Vue.js, React
+
+\- Tools: Git, GitHub, VS Code
+
+\- Backend \& Database: Firebase
+
+
+
+\## 🌱 My Goal
+
+
+
+꾸준히 배우고 직접 구현하는 개발자가 되는 것이 목표입니다. 다양한 프로젝트와 경험을 통해 개발 역량을 넓히고, 컴퓨터 과학과 정보보안 분야에 대한 전문성을 키워 나가고 있습니다.
+
