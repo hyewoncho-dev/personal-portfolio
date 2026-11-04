@@ -1,5 +1,5 @@
 baseURL = "https://hyewoncho-dev.github.io/personal-portfolio/"
-title = "johndoe"
+title = "조혜원 | 개발자 포트폴리오"
 theme = "template"
 
 languageCode = "en"
@@ -22,16 +22,15 @@ noClasses = false
 [markup.goldmark.renderer]
 unsafe = true
 
+
 [params]
-author = "John Doe"
-# license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "John Doe's personal website"
-keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+author = "조혜원"
+description = "컴퓨터인공지능학과 학생 조혜원의 개인 개발 포트폴리오입니다."
+keywords = "조혜원, 컴퓨터인공지능, 개발자, 프로그래밍, 포트폴리오"
+info = ["컴퓨터인공지능학과 학생", "Web Development · AI · Security"]
 avatarURL = "images/avatar.jpg"
-#gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
-since = 2019
+since = 2026
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 # Right To Left, shift content direction for languages such as Arabic
@@ -150,7 +149,7 @@ author = "authors"
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/hyewoncho-dev/"
 
 [[params.social]]
 name = "Gitlab"
