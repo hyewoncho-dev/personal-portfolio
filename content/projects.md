@@ -8,7 +8,7 @@ slug = "projects"
 
 
 
-\# My Projects
+# My Projects
 
 
 
@@ -20,19 +20,19 @@ slug = "projects"
 
 
 
-\---
+---
 
 
 
-\## 1. Zero Choice
+## 1. Zero Choice
 
 
 
-\*\*AI 기반 개인 맞춤형 소비 설계 애플리케이션\*\*
+**AI 기반 개인 맞춤형 소비 설계 애플리케이션**
 
 
 
-\[GitHub Repository](https://github.com/hyewoncho-dev/TBMCamp2026)
+[GitHub Repository](https://github.com/hyewoncho-dev/TBMCamp2026)
 
 
 
@@ -40,47 +40,47 @@ Zero Choice는 사용자의 소비 가치관을 바탕으로 소비 패턴과 �
 
 
 
-\### 주요 기능
+### 주요 기능
 
 
 
-\- \*\*소비 가치관 설정\*\*
+- **소비 가치관 설정**
 
 &#x20; - 합리적 가성비, 지속가능한 환경, 완벽한 밸런스 중 소비 기준 선택
 
-\- \*\*오늘의 소비 분석\*\*
+- **오늘의 소비 분석**
 
 &#x20; - 이번 달 예산 잔액, 탄소 절감량, 소비 안전 지수 확인
 
-\- \*\*상품 검색 및 맞춤 추천\*\*
+- **상품 검색 및 맞춤 추천**
 
 &#x20; - 사용자가 원하는 상품을 검색하고 설정한 가치관에 맞춰 분석
 
-\- \*\*가치 기준 기반 상품 분석\*\*
+- **가치 기준 기반 상품 분석**
 
 &#x20; - 상품의 가격과 환경 영향 등을 분석하고 대체 상품 및 예상 절감 금액 제안
 
 
 
-\### My Role
+### My Role
 
 
 
-\*\*Claude를 활용한 바이브 코딩 방식의 애플리케이션 개발 참여\*\*
+**Claude를 활용한 바이브 코딩 방식의 애플리케이션 개발 참여**
 
 
 
-\- 서비스의 사용자 흐름을 고려한 온보딩, 가치관 선택, 소비 분석, 상품 추천 화면 구현
+- 서비스의 사용자 흐름을 고려한 온보딩, 가치관 선택, 소비 분석, 상품 추천 화면 구현
 
-\- 소비 가치관 선택과 상품 검색 등 사용자 입력에 따른 인터랙션 구현
+- 소비 가치관 선택과 상품 검색 등 사용자 입력에 따른 인터랙션 구현
 
-\- 가치관 설정부터 분석 결과와 상품 추천까지 이어지는 서비스 흐름 구현
+- 가치관 설정부터 분석 결과와 상품 추천까지 이어지는 서비스 흐름 구현
 
-\- Claude에 요구사항과 기능의 동작 방식을 구체적으로 전달하며 개발 진행
+- Claude에 요구사항과 기능의 동작 방식을 구체적으로 전달하며 개발 진행
 
 
 
-\### Tech Stack
+### Tech Stack
 
 
 
@@ -88,7 +88,7 @@ Python, Claude AI, Vibe Coding
 
 
 
-\### What I Learned
+### What I Learned
 
 
 
@@ -100,23 +100,23 @@ AI를 활용한 개발에서도 개발자가 요구사항과 서비스의 동작
 
 
 
-\---
+---
 
 
 
-\## 2. 교수 리서치 노트
+## 2. 교수 리서치 노트
 
 
 
-\*\*LLM을 활용한 교수 정보 검색 및 연구 이력 정리 서비스\*\*
+**LLM을 활용한 교수 정보 검색 및 연구 이력 정리 서비스**
 
 
 
-\[GitHub Repository](https://github.com/hyewoncho-dev/Hackathon2026)
+[GitHub Repository](https://github.com/hyewoncho-dev/Hackathon2026)
 
 
 
-\[Live Demo](https://hackathone-pied.vercel.app/)
+[Live Demo](https://hackathone-pied.vercel.app/)
 
 
 
@@ -128,37 +128,37 @@ AI를 활용한 개발에서도 개발자가 요구사항과 서비스의 동작
 
 
 
-\### 주요 기능
+### 주요 기능
 
 
 
-\- \*\*교수 정보 검색\*\*
+- **교수 정보 검색**
 
 &#x20; - 대학명과 교수명을 입력하여 공개 웹에서 관련 정보 검색
 
-\- \*\*공식 프로필 후보 확인\*\*
+- **공식 프로필 후보 확인**
 
 &#x20; - 대학의 공식 홈페이지와 교수 디렉터리를 중심으로 정보 확인
 
-\- \*\*연구 정보 수집 및 정리\*\*
+- **연구 정보 수집 및 정리**
 
 &#x20; - 공식 페이지에서 교수의 연구 내용과 주요 이력 추출
 
-\- \*\*출처 기반 정보 제공\*\*
+- **출처 기반 정보 제공**
 
 &#x20; - 실제 출처와 근거를 확인한 정보만 저장
 
-\- \*\*논문 정보 연동\*\*
+- **논문 정보 연동**
 
 &#x20; - OpenAlex 저자를 사용자가 별도로 확정하면 주요 논문 정보 수집
 
 
 
-\### My Role
+### My Role
 
 
 
-\*\*Frontend Development\*\*
+**Frontend Development**
 
 
 
@@ -166,19 +166,19 @@ AI를 활용한 개발에서도 개발자가 요구사항과 서비스의 동작
 
 
 
-\- \*\*화면 설계\*\*
+- **화면 설계**
 
 &#x20; - 서비스의 주요 기능과 사용자 흐름을 고려한 화면 구조 및 UI 구성
 
 &#x20; - 사용자가 교수 정보 검색과 결과 확인을 자연스럽게 진행할 수 있도록 화면 설계
 
-\- \*\*인터랙션 구현\*\*
+- **인터랙션 구현**
 
 &#x20; - 사용자 입력과 기능 실행에 따른 화면 변화 구현
 
 &#x20; - 서비스 이용 과정에 필요한 사용자 인터랙션 구현
 
-\- \*\*프론트엔드 연동\*\*
+- **프론트엔드 연동**
 
 &#x20; - 사용자 입력과 검색 결과가 화면에 반영되도록 기능 연결
 
@@ -186,7 +186,7 @@ AI를 활용한 개발에서도 개발자가 요구사항과 서비스의 동작
 
 
 
-\### Tech Stack
+### Tech Stack
 
 
 
@@ -194,7 +194,7 @@ FastAPI, Python, Gemini, OpenAlex, SQLite, HTML, CSS, JavaScript, Vercel
 
 
 
-\### What I Learned
+### What I Learned
 
 
 
@@ -206,19 +206,19 @@ FastAPI, Python, Gemini, OpenAlex, SQLite, HTML, CSS, JavaScript, Vercel
 
 
 
-\---
+---
 
 
 
-\## 3. Mini Todo App
+## 3. Mini Todo App
 
 
 
-\*\*React와 Firebase를 활용한 할 일 관리 웹 애플리케이션\*\*
+**React와 Firebase를 활용한 할 일 관리 웹 애플리케이션**
 
 
 
-\[GitHub Repository](https://github.com/hyewoncho-dev/mini-todo)
+[GitHub Repository](https://github.com/hyewoncho-dev/mini-todo)
 
 
 
@@ -226,23 +226,23 @@ FastAPI, Python, Gemini, OpenAlex, SQLite, HTML, CSS, JavaScript, Vercel
 
 
 
-\### 주요 기능 및 학습 내용
+### 주요 기능 및 학습 내용
 
 
 
-\- React를 활용한 사용자 인터페이스 구현
+- React를 활용한 사용자 인터페이스 구현
 
-\- Firebase Authentication을 이용한 사용자 인증
+- Firebase Authentication을 이용한 사용자 인증
 
-\- Firestore를 활용한 할 일 데이터 저장 및 관리
+- Firestore를 활용한 할 일 데이터 저장 및 관리
 
-\- 사용자별 데이터 관리 구조 학습
+- 사용자별 데이터 관리 구조 학습
 
-\- 로그인 상태 유지 및 데이터 연동 실습
+- 로그인 상태 유지 및 데이터 연동 실습
 
 
 
-\### Tech Stack
+### Tech Stack
 
 
 
@@ -250,23 +250,23 @@ React, JavaScript, Firebase Authentication, Firestore, Vite
 
 
 
-\---
+---
 
 
 
-\## 4. Movie Lab
+## 4. Movie Lab
 
 
 
-\*\*Vue.js와 TMDB API를 활용한 영화 정보 웹 프로젝트\*\*
+**Vue.js와 TMDB API를 활용한 영화 정보 웹 프로젝트**
 
 
 
-\[GitHub Repository - Actions](https://github.com/hyewoncho-dev/movie-lab-actions)
+[GitHub Repository - Actions](https://github.com/hyewoncho-dev/movie-lab-actions)
 
 
 
-\[GitHub Repository - Static](https://github.com/hyewoncho-dev/movie-lab-static)
+[GitHub Repository - Static](https://github.com/hyewoncho-dev/movie-lab-static)
 
 
 
@@ -274,23 +274,23 @@ TMDB API를 활용하여 영화 정보를 웹 페이지에 표시하는 프로�
 
 
 
-\### 주요 기능 및 학습 내용
+### 주요 기능 및 학습 내용
 
 
 
-\- Vue.js를 활용한 웹 페이지 구현
+- Vue.js를 활용한 웹 페이지 구현
 
-\- TMDB API를 이용한 영화 데이터 활용
+- TMDB API를 이용한 영화 데이터 활용
 
-\- API 데이터를 웹 화면에 표시하는 과정 학습
+- API 데이터를 웹 화면에 표시하는 과정 학습
 
-\- GitHub Actions를 이용한 자동화 배포 실습
+- GitHub Actions를 이용한 자동화 배포 실습
 
-\- GitHub Pages를 이용한 정적 웹사이트 배포 경험
+- GitHub Pages를 이용한 정적 웹사이트 배포 경험
 
 
 
-\### Tech Stack
+### Tech Stack
 
 
 
@@ -298,19 +298,19 @@ Vue.js, JavaScript, TMDB API, Vite, GitHub Actions, GitHub Pages
 
 
 
-\---
+---
 
 
 
-\## 5. GitHub Practice
+## 5. GitHub Practice
 
 
 
-\*\*Git과 GitHub를 활용한 버전 관리 및 협업 실습\*\*
+**Git과 GitHub를 활용한 버전 관리 및 협업 실습**
 
 
 
-\[GitHub Repository](https://github.com/hyewoncho-dev/github-practice2)
+[GitHub Repository](https://github.com/hyewoncho-dev/github-practice2)
 
 
 
@@ -318,23 +318,23 @@ Git을 이용한 소스 코드 관리와 GitHub Flow 및 Git Flow 방식의 브�
 
 
 
-\### 주요 학습 내용
+### 주요 학습 내용
 
 
 
-\- Git 저장소 생성 및 관리
+- Git 저장소 생성 및 관리
 
-\- 기능별 브랜치 생성 및 작업
+- 기능별 브랜치 생성 및 작업
 
-\- Git Flow 방식의 브랜치 관리
+- Git Flow 방식의 브랜치 관리
 
-\- Pull Request와 Merge를 통한 코드 통합
+- Pull Request와 Merge를 통한 코드 통합
 
-\- Python 파일을 활용한 기능별 코드 관리
+- Python 파일을 활용한 기능별 코드 관리
 
 
 
-\### Tech Stack
+### Tech Stack
 
 
 
@@ -342,11 +342,11 @@ Git, GitHub, Python
 
 
 
-\---
+---
 
 
 
-\## My Growth
+## My Growth
 
 
 
