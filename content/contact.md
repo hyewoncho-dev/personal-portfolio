@@ -8,7 +8,7 @@ slug = "contact"
 
 
 
-\# Contact Me
+# Contact Me
 
 
 
@@ -20,7 +20,7 @@ slug = "contact"
 
 
 
-\## Email
+## Email
 
 
 
@@ -28,11 +28,11 @@ slug = "contact"
 
 
 
-\*\*Email:\*\* \[hyewoncho1@jbnu.ac.kr](mailto:hyewoncho1@jbnu.ac.kr)
+**Email:** [hyewoncho1@jbnu.ac.kr](mailto:hyewoncho1@jbnu.ac.kr)
 
 
 
-\## GitHub
+## GitHub
 
 
 
@@ -40,11 +40,11 @@ slug = "contact"
 
 
 
-\[GitHub - hyewoncho-dev](https://github.com/hyewoncho-dev)
+[GitHub - hyewoncho-dev](https://github.com/hyewoncho-dev)
 
 
 
-\## Let's Connect
+## Let's Connect
 
 
 
