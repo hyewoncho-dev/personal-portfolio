@@ -126,7 +126,7 @@ hugo server -D
 브라우저에서 다음 주소로 접속합니다.
 
 ```text
-http://localhost:1313/
+http://localhost:1313/personal-portfolio/
 ```
 
 ### 4. 배포용 빌드
