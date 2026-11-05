@@ -1,6 +1,6 @@
 +++
 
-title = "Contact"
+title = "연락처"
 
 slug = "contact"
 
@@ -8,7 +8,7 @@ slug = "contact"
 
 
 
-# Contact Me
+# Contact to me
 
 
 
