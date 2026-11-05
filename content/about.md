@@ -96,7 +96,7 @@ AI 기반 소비 가치 분석 프로젝트인 Zero Choice에 참여하면서 �
 
 
 
-\## 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 
 
@@ -104,53 +104,53 @@ AI 기반 소비 가치 분석 프로젝트인 Zero Choice에 참여하면서 �
 
 
 
-\### 💻 Programming
+### 💻 Programming
 
-\- \*\*Python\*\*: 프로젝트 기능 구현 및 프로그래밍 실습
+- **Python**: 프로젝트 기능 구현 및 프로그래밍 실습
 
-\- \*\*JavaScript\*\*: 웹 페이지 기능과 사용자 인터랙션 구현
-
-
-
-\### 🎨 Frontend
-
-\- \*\*HTML\*\*: 웹 페이지 구조 작성
-
-\- \*\*CSS\*\*: 웹 화면 디자인 및 레이아웃 구성
+- **JavaScript**: 웹 페이지 기능과 사용자 인터랙션 구현
 
 
 
-\### ⚙️ Framework
+### 🎨 Frontend
 
-\- \*\*Vue.js\*\*: 영화 정보 웹 프로젝트 개발
+- **HTML**: 웹 페이지 구조 작성
 
-\- \*\*React\*\*: 할 일 관리 웹 애플리케이션 개발
-
-
-
-\### 🗄️ Database
-
-\- \*\*Firebase Authentication\*\*: 사용자 로그인 기능 구현
-
-\- \*\*Firestore\*\*: 사용자별 할 일 데이터 저장 및 관리
+- **CSS**: 웹 화면 디자인 및 레이아웃 구성
 
 
 
-\### 🔗 API
+### ⚙️ Framework
 
-\- \*\*TMDB API\*\*: 영화 정보 조회 및 데이터 활용
+- **Vue.js**: 영화 정보 웹 프로젝트 개발
+
+- **React**: 할 일 관리 웹 애플리케이션 개발
 
 
 
-\### 🧰 Development Tools
+### 🗄️ Database
 
-\- \*\*Git \& GitHub\*\*: 소스 코드 버전 관리
+- **Firebase Authentication**: 사용자 로그인 기능 구현
 
-\- \*\*Vite\*\*: 웹 프로젝트 개발 환경 구성
+- **Firestore**: 사용자별 할 일 데이터 저장 및 관리
 
-\- \*\*GitHub Actions\*\*: 프로젝트 자동 배포
 
-\- \*\*Hugo\*\*: 개인 포트폴리오 웹사이트 제작 및 관리
+
+### 🔗 API
+
+- **TMDB API**: 영화 정보 조회 및 데이터 활용
+
+
+
+### 🧰 Development Tools
+
+- **Git & GitHub**: 소스 코드 버전 관리
+
+- **Vite**: 웹 프로젝트 개발 환경 구성
+
+- **GitHub Actions**: 프로젝트 자동 배포
+
+- **Hugo**: 개인 포트폴리오 웹사이트 제작 및 관리
 
 
 
@@ -158,7 +158,7 @@ AI 기반 소비 가치 분석 프로젝트인 Zero Choice에 참여하면서 �
 
 
 
-### 1\. Zero Choice
+### 1. Zero Choice
 
 
 
@@ -177,7 +177,7 @@ GitHub: https://github.com/hyewoncho-dev/TBMCamp2026
 
 
 
-### 2\. Professor Research Note
+### 2. Professor Research Note
 
 
 
@@ -202,7 +202,7 @@ Demo: https://hackathone-pied.vercel.app/
 
 
 
-### 3\. Mini Todo App
+### 3. Mini Todo App
 
 
 
@@ -221,7 +221,7 @@ GitHub: https://github.com/hyewoncho-dev/mini-todo
 
 
 
-### 4\. Movie Lab
+### 4. Movie Lab
 
 
 
@@ -240,7 +240,7 @@ GitHub: https://github.com/hyewoncho-dev/movie-lab-actions
 
 
 
-### 5\. GitHub Practice
+### 5. GitHub Practice
 
 
 
@@ -266,7 +266,7 @@ GitHub: https://github.com/hyewoncho-dev/github-practice2
 
 
 
-### 1\. 컴퓨터 과학 기초 강화
+### 1. 컴퓨터 과학 기초 강화
 
 
 
@@ -278,7 +278,7 @@ GitHub: https://github.com/hyewoncho-dev/github-practice2
 
 
 
-### 2\. 웹 개발 프로젝트 경험 확대
+### 2. 웹 개발 프로젝트 경험 확대
 
 
 
@@ -290,7 +290,7 @@ React와 Vue.js를 활용한 프로젝트를 더 진행하고, 프론트엔드�
 
 
 
-### 3\. 정보보안 기초 학습
+### 3. 정보보안 기초 학습
 
 
 
