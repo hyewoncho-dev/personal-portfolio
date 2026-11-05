@@ -200,6 +200,18 @@ https://hyewoncho-dev.github.io/personal-portfolio/
 
 테마의 저작권 표시 및 MIT 라이선스 전문은 `themes/template/LICENSE.md` 파일에 포함되어 있습니다.
 
+### Image & Asset Attribution
+
+- **Profile Image (`static/images/avatar.jpg`):** AI-generated image used for the portfolio profile.
+- **Other Images and Icons:** Other image and icon files were not replaced during customization. Their original sources and licenses have not yet been independently verified.
+- **Font Awesome Icons:** Font Awesome assets are distributed under their respective licenses. See `themes/template/static/fonts/LICENSE.txt`.
+
+
+
+
+
+
+
 ## 📬 Contact
 
 - Email: hyewoncho1@jbnu.ac.kr
