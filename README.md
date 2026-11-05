@@ -151,6 +151,20 @@ hugo --minify
 | `.github/workflows/hugo.yml` | GitHub Actions 자동 배포 설정 |
 | `public/` | Hugo 빌드 결과물 |
 
+### Content Editing Guide
+
+- **자기소개 수정:** `content/about.md` 파일에서 학력, 관심 분야, 기술 및 학습 목표를 수정합니다.
+- **프로젝트 수정:** `content/projects.md` 파일에서 프로젝트 설명, 담당 역할, 사용 기술 및 결과를 수정합니다.
+- **연락처 수정:** `content/contact.md` 파일에서 이메일과 GitHub 정보를 수정합니다.
+- **블로그 수정:** `content/posts/` 폴더에서 게시글을 추가하거나 수정합니다.
+- **사이트 설정 수정:** `hugo.toml` 파일에서 사이트 제목, 언어 및 메뉴를 수정합니다.
+- **프로필 이미지 수정:** `static/` 폴더의 이미지 파일을 교체합니다.
+
+
+
+
+
+
 ## 🚀 Deployment
 
 GitHub Pages와 GitHub Actions를 이용해 사이트를 배포합니다.
