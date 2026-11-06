@@ -2,3 +2,17 @@
 /public/
 /.hugo_build.lock
 **/resources/_gen/
+
+# Environment and sensitive files
+.env
+.env.*
+!.env.example
+
+# Temporary files and logs
+*.log
+*.tmp
+*.bak
+
+# Cache and dependencies
+.cache/
+node_modules/
