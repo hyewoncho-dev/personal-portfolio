@@ -24,6 +24,10 @@ tags = ["Project", "Vue", "JavaScript", "TMDB API", "Vite", "GitHub Actions"]
 
 Movie Lab은 Vue.js와 TMDB API를 활용하여 영화 정보를 조회하고 검색할 수 있도록 만든 웹 프로젝트입니다.
 
+**담당 역할:** 개인 프로젝트 개발 및 주요 기능 구현
+
+**주요 기여:** Vue.js를 활용한 사용자 인터페이스 구성, TMDB API 연동, 인기 영화 조회 및 검색, 페이지 이동과 로딩·오류 상태 처리 구현
+
 
 
 TMDB에서 제공하는 실제 영화 데이터를 API로 받아와 화면에 표시하는 것을 목표로 했습니다.
