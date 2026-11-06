@@ -11,3 +11,13 @@ body, p, li, a, h1, h2, h3 {
   overflow-wrap: break-word;
   word-break: keep-all;
 }
+
+html {
+  scroll-padding-top: 4rem;
+  scroll-behavior: smooth;
+}
+
+pre, table {
+  max-width: 100%;
+  overflow-x: auto;
+}
