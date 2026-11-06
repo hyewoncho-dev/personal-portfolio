@@ -309,3 +309,8 @@ React와 Vue.js를 활용한 프로젝트를 더 진행하고, 프론트엔드�
 
 앞으로도 프로젝트를 통해 새로운 기술을 경험하고, 개발 과정에서 겪은 문제와 해결 방법을 기록하겠습니다. 꾸준히 배우고 직접 구현하면서 저만의 개발 역량을 만들어 가겠습니다.
 
+
+<!-- Accessibility & Image Alt Text Update -->
+<div style="display:none;">
+  <img src="/images/avatar.png" alt="개발자 개인 포트폴리오 프로필 아바타 이미지" />
+</div>
