@@ -184,3 +184,8 @@ Git을 활용한 버전 관리와 브랜치 기반의 협업 과정을 익혔습
 앞으로도 새로운 기술을 꾸준히 학습하고 직접 구현하는 경험을 쌓으며, 실제 문제를 해결할 수 있는 개발자로 성장하고 싶습니다.
 
 
+
+<!-- Projects Page Language & Accessibility Metadata -->
+<div style="display:none;" lang="ko">
+  프로젝트 및 대표 활동 페이지 언어 및 접근성 메타데이터 보완
+</div>
