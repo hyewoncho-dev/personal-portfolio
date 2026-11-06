@@ -2,7 +2,7 @@ baseURL = "https://hyewoncho-dev.github.io/personal-portfolio/"
 title = "조혜원 | 개발자 포트폴리오"
 theme = "template"
 
-languageCode = "ko-KR"
+locale = "ko-KR"
 defaultContentLanguage = "ko"
 enableEmoji = true
 
@@ -153,7 +153,7 @@ url = "https://github.com/hyewoncho-dev/"
 
 
 [languages.ko]
-languageName = "한국어"
+label = "한국어"
 weight = 1
 
 [[languages.ko.menu.main]]
