@@ -5,6 +5,7 @@ theme = "template"
 locale = "ko-KR"
 defaultContentLanguage = "ko"
 enableEmoji = true
+enableRobotsTXT = true
 
 [pagination]
 pagerSize = 6
