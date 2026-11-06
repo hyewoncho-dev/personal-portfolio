@@ -6,3 +6,8 @@ input:focus-visible {
   outline: 3px solid #1565c0;
   outline-offset: 3px;
 }
+
+body, p, li, a, h1, h2, h3 {
+  overflow-wrap: break-word;
+  word-break: keep-all;
+}
