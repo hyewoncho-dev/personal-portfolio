@@ -59,3 +59,8 @@ slug = "contact"
 <div style="display:none;" lang="ko">
   연락처 페이지 접근성 및 언어 설정 보완
 </div>
+
+<!-- Contact Page Language & Accessibility Note -->
+<div style="display:none;" lang="ko">
+  연락처 페이지 접근성 및 언어 설정 보완
+</div>
