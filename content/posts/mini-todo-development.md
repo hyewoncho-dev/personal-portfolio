@@ -12,6 +12,10 @@ tags = ["Project", "React", "Firebase", "JavaScript", "Firestore"]
 
 웹 개발 학습 과정에서 **React와 Firebase를 활용한 Mini Todo App**을 제작했습니다.
 
+**담당 역할:** 개인 프로젝트 개발 및 주요 기능 구현
+
+**주요 기여:** Firebase Authentication을 이용한 회원가입·로그인과 로그인 상태 관리, Cloud Firestore를 활용한 사용자별 할 일 데이터 관리 구현
+
 Mini Todo는 사용자가 해야 할 일을 등록하고 완료 여부를 관리할 수 있는 할 일 관리 웹 애플리케이션입니다.
 
 단순히 할 일을 추가하고 삭제하는 기능뿐만 아니라, 사용자가 로그인한 후 자신의 할 일 데이터를 관리할 수 있도록 구현하는 것을 목표로 했습니다.
