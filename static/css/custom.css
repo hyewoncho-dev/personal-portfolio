@@ -1,1 +1,8 @@
 /* Custom styles for accessibility and responsive layout */
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 3px solid #1565c0;
+  outline-offset: 3px;
+}
