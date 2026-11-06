@@ -20,6 +20,10 @@ tags = ["Project", "Git", "GitHub", "Python", "Git Flow"]
 
 GitHub Practice는 Git과 GitHub의 기본 사용 방법을 익히기 위해 진행한 실습 프로젝트입니다.
 
+**담당 역할:** 개인 실습 프로젝트 개발 및 GitHub 버전 관리
+
+**주요 기여:** Python 기능별 파일 작성, 기능별 브랜치 생성, 커밋 및 Pull Request 생성·병합을 통한 Git Flow 실습
+
 
 
 Python으로 간단한 기능을 구현하고, Git을 이용해 변경 사항을 관리했습니다. 또한 GitHub 저장소에 코드를 업로드하고 브랜치와 Pull Request를 활용하는 과정을 경험했습니다.
